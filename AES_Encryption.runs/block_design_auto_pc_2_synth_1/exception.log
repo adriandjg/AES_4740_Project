@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\2adri\AES_Encryption\AES_Encryption.runs\block_design_auto_pc_2_synth_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied
